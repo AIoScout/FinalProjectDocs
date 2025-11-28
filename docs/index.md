@@ -5,6 +5,9 @@ Welcome to the ISDN2602 Final Project Website
 
 ## Changelog
 
+#### [2025-11-28] Add [Shortest Path Computation](/shortestPath/) and [Additional Reminders](/reminder/) Sections
+
+
 #### [2025-11-22] Update [Control Panel Section](/controlPanel/) 
 
 To include Traffic Light System Control and Timer Control note.
