@@ -51,5 +51,3 @@ extra_javascript:
 
 extra:
   generator: false
-  giscus:
-    enabled: true
