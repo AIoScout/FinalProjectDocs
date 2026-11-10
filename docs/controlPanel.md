@@ -10,7 +10,7 @@ We will also be giving you the access to use the control panel for testing, whic
 
 You need to 
 
-1. Sign up and login to the control panel at our Control Panel Site: [panel.isdn2602.site](https://panel.isdn2602.site)
+1. Sign up and login to the control panel at our Control Panel Site: [panel.isdn2602.site](https://panel.isdn2602.shop)
 2. Copy your user ID (should be visible at the top right corner of the app)
 3. Input the user ID string to your skeleton code (so your car will only read your commands and not be confused by others' commands)
 4. (Optional) Turn on the `Serial.print` for retrieving Firebase data and see if the data matches the command you set on your control panel
